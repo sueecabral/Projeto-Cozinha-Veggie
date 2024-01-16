@@ -13,11 +13,6 @@
    <img alt="projeto form login" src="projeto-cozinha-veggie/imagens/imagemPage01.png" width="100%">
 </p>
 
-# Página Contatos
-<p align="center">
-  <img alt="projeto form login" src="projeto-cozinha-veggie/imagens/imagemPage02.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
