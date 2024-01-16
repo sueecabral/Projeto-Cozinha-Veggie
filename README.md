@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma página web para estudo e treino das tecnologias envolvidas.
 
+[Visite o projeto online] : https://projeto-cozinha-veggie.vercel.app/
+
 
 
 
